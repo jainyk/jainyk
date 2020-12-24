@@ -17,9 +17,9 @@ a 21 year old <img src="https://github.com/rajput2107/rajput2107/blob/master/Ass
 <!-- <a href="https://www.instagram.com/singla5453">
   <img align="left" alt="singla5453's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> -->
-<a href="https://www.facebook.com/shivam.singla.566">
+<!--<a href="https://www.facebook.com/shivam.singla.566">
   <img align="left" alt="singla5453's facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> -->
 <!-- <a href="https://www.reddit.com/user/shivam7374">
   <img align="left" alt="shivam7374's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
@@ -51,11 +51,11 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 
 <!-- - 👨🏽‍💻 I’m currently working on [AI ML Cloud Projects](https://hackaday.io/shivam7374); -->
 
-- 👨🏻‍💻 I’m currently working on a Web-Dev project
+- 👨🏻‍💻 I’m currently working on a python outlier detection pypi package
 - 🌱 I love to solve real-life problems with my projects;
 - 🤔 I’m learning Data Structure and Algorithm;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: shivamsingla491@gmail.com
+- 💬 Always ready for project collaboration;
+- 📫 How to reach me: vjiit97@gmail.com
   <!-- - ⚡ Fun-Fact: I've got 180+ subscribers in 2 months in [*YouTube*](https://www.youtube.com/channel/UCDsCnqf4ZMhrTefiEd0dVrw/) -->
   <!-- - 📫 How to reach me:@gmail.com; -->
   <!-- - 📝[Resume](https://drive.google.com/file/d/17-XJ_6aZC98SDWgxdHBqAniP-q4zsKSm/view?usp=sharing) -->
