@@ -68,6 +68,7 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam7374" alt="shivam7374" /> </p>
  
 <!-- <br>
@@ -80,7 +81,7 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 ![shivam7374's github stats](https://github-readme-stats.vercel.app/api?username=shivam7374&show_icons=true&hide_border=true)
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/shivam7374/shivam7374) :pencil:
-
+-->
 ⭐ Recent projects in which I have contributed :rocket:
 
 Link to
