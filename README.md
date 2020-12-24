@@ -9,7 +9,7 @@ a 21 year old <img src="https://github.com/rajput2107/rajput2107/blob/master/Ass
   <img align="left" alt="shivam7374 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/vishal-jain-954011157/">
-  <img align="left" alt="shivam-singla7374's LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="vishal LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!-- <a href="https://t.me/shivam7374">
   <img align="left" alt="shivam7374's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -27,7 +27,7 @@ a 21 year old <img src="https://github.com/rajput2107/rajput2107/blob/master/Ass
   <img align="left" alt="shivam7374's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a> -->
 <a href="https://medium.com/@imt_2017090"> 
-   <img align="left" alt="shivam491's Codechef" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+   <img align="left" alt="vishal medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
 <!-- <a href="https://www.hackerrank.com/shivamsingla491"> 
    <img align="left" alt="shivam491's HackerRank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
